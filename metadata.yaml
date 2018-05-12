@@ -1,0 +1,38 @@
+_repo: Royal-Highness_36028
+_version: 0.1.0
+alternative_title: Königliche Hoheit. English
+contributor:
+  translator:
+    agent_name: Curtis, A. Cecil
+    gutenberg_agent_id: '38036'
+    url: http://www.gutenberg.org/2009/agents/38036
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Mann, Thomas
+    aliases:
+    - Mann, Paul Thomas
+    - Thomas, Paul
+    birthdate: 1875
+    deathdate: 1955
+    gutenberg_agent_id: '4200'
+    url: http://www.gutenberg.org/2009/agents/4200
+    wikipedia: http://en.wikipedia.org/wiki/Thomas_Mann
+description: ''
+gutenberg_issued: '2011-05-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36028'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PT'
+- !lcsh 'Germany -- Fiction'
+- !lcsh 'German fiction -- Translations into English'
+- !lcsh 'Courts and courtiers -- Fiction'
+title: Royal Highness
+url: http://www.gutenberg.org/ebooks/36028
